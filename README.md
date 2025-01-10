@@ -1,4 +1,5 @@
 **COFFEE ROASTER ANALYSIS**
+
 Coffee roasters turn raw beans into flavourful roasted coffee, highlighting unique tastes based on where the beans come from and how they’re roasted (light, medium, or dark). They focus on top-quality beans, sustainability, and traceability. The visualizations show trends like coffee prices, ratings, origins, and roast types. This helps roasters understand customer preferences, set better prices, and improve their roasting process. Using this data, they can offer better coffee and meet market demands.
 
 **1. General Insights:**
